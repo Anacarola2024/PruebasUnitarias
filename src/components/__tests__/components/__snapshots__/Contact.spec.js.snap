@@ -1,3 +1,5 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`Contact.vue > matches the snapshot 1`] = `"<h1>This is a Contact page</h1>"`;
+
+exports[`ContactView.vue > matches the snapshot 1`] = `"<h1 title="Contact Us" description="This is the contact page.">This is a Contact page</h1>"`;
